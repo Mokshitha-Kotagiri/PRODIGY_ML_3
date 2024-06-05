@@ -45,7 +45,7 @@ To run the code:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/JAHNAVIDINGARI04/cats-vs-dogs-classification.git
+   git clone https://github.com/Mokshitha-Kotagiri/cats-vs-dogs-classification.git
    ```
 
 2. Install the required dependencies:
